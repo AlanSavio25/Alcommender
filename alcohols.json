@@ -1,0 +1,53 @@
+{
+"Red Wine":{
+ 	"Merlot": "4.50"
+	},
+"White Wine":{
+	"White Zinfandel": "4.50",
+	"Pinot Grigio":"4.50"
+	},
+"Beers":{
+	"SOL": "3.60",
+	"Desperados": "3.70",
+	"Birra Moretti": "3.70",
+	"Red Stripe" : "3.60",
+	"Innis & Gunn Lager": "3.70",
+	"Stewart's Embra": "3.80",
+	"Stewart's Hollyrood Pale Ale": "3.80",
+	"Barney's Red Rye" : "4.00",
+	"Blue Moon": "4.00",
+	"Williams Joker IPA" : "4.50",
+	"Williams Caeser Augustus": "4.50"
+  		},
+  "Vodka":{
+  	"Smirnoff Red":"2.90",
+  	"Absolut Blue": "3.00",
+  	"Absolut Raspberri": "3.00",
+  	"Absolut Vanillia": "3.00",
+  	"Zubrowka": "3.00"
+,  	"Finlandia Grapefruit": "2.90"
+  },
+  "Gin":{
+  	"Gordons:": "2.90",
+  	"Ungava": "3.90",
+  	"Dafys": "3.70",
+  	"Edinburgh Gin": "3.00",
+  	"Edinburgh Gin Raspberry": "3.00"
+  },
+  "Rum":{
+  	"Havana Especial": "2.90",
+  	"Havana 3": "3.00",
+  	"Havana 7": "3.00",
+  	"Kraken" : "3.00",
+  	"Rebellion": "2.90",
+  	"Dark Matter": "3.20",
+  	"Koku Kanu": "2.70"
+  },
+  "Whisky & Bourbon":{
+  	"Monkey Shoulder": "2.90",
+  	"Buffalo Trace": "2.90",
+  	"Jameson": "3.00",
+  	"Jack Daniels": "2.90",
+  	"Jack Daniels Honey": "3.00"
+  }
+}
